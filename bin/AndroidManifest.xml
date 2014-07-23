@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.indra.ayam.kocok"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="17" />
+    
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon_ayam"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.indra.ayam.kocok.SplashActivity"
+            android:label="@string/app_name" 
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.indra.ayam.kocok.MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.indra.ayam.activities.ImagePagerFoodView"
+            android:label="@string/app_name" >
+        </activity>
+         <activity
+            android:name="com.indra.ayam.activities.ImageSlider"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- FOOD MENU -->
+    <string-array name="food_title">
+        <item>Ayam Kocok</item>
+        <item>Nasgor Ayam Kocok</item>
+        <item>Asap Sedap</item>
+        <item>Ayam Kremes</item>
+        <item>Ayam Kalasan</item>
+        <item>Tongkol Asap Sedap</item>
+        <item>Lele Kremes</item>
+        <item>Ampela Ati</item>        
+        <item>Ayam Asap Sedap Utuh</item>
+		<item>Ayam Kocok Plus</item>                                                      
+    </string-array>
+    <string-array name="food_price">
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>      
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+    </string-array>
+    <string-array name="food_image">
+        <item>@drawable/ayamkocok</item>
+        <item>@drawable/nasgor</item>
+        <item>@drawable/ayamsedap</item>
+        <item>@drawable/ayamkremes</item>
+        <item>@drawable/ayamkalasan</item>
+        <item>@drawable/tongkolsedap</item>
+        <item>@drawable/lelekremes</item>
+        <item>@drawable/ampelaati</item>        
+        <item>@drawable/ayamutuh</item>
+        <item>@drawable/ayamkocokplus</item>                                                
+    </string-array>
+    <string-array name="food_desc">
+        <item>Ayam Kocok deskripsi</item>
+        <item>Nasgor Ayam Kocok deskripsi</item>
+        <item>Asap Sedap deskripsi</item>
+        <item>Ayam Kremes deskripsi</item>
+        <item>Ayam Kalasan deskripsi</item>
+        <item>Tongkol Asap Sedap deskripsi</item>
+        <item>Lele Kremes deskripsi</item>
+        <item>Ampela Ati deskripsi</item>        
+        <item>Ayam Asap Sedap Utuh deskrip</item>
+		<item>Ayam Kocok Plus deskripsi</item>
+    </string-array>    
+    <string-array name="food_details">
+        <item>
+            food details 1		</item>
+		<item>
+		    food details 2
+		</item>
+		<item>
+		    food details 3
+		</item>		
+		<item>
+		    food details 4
+		</item>
+		<item>
+            food details 5
+		</item>
+		<item>
+		    food details 6
+		</item>
+		<item>
+		    food details 7
+		</item>
+		<item>
+		    food details 8
+		</item>
+		<item>
+		    food details 9
+		</item>
+		<item>
+		    food details 10
+		</item>
+    </string-array>
+    <!-- END FOOD MENU -->
+    
+    <!-- DRINK MENU -->
+    <string-array name="drink_title">
+        <item>Pudding coklat</item>
+        <item>Es Teller Joss</item>
+        <item>Milkshake</item>
+        <item>Floats</item>
+        <item>Ice Cream</item>
+        <item>Smoothies</item>
+        <item>Bubble Pop</item>
+        <item>Lemon Tea</item>
+        <item>Air Mineral</item>                                                                   
+    </string-array>
+    <string-array name="drink_price">
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>      
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+    </string-array>
+    <string-array name="drink_image">
+        <item>@drawable/pudingcoklat</item>
+        <item>@drawable/esteller</item>
+        <item>@drawable/milkshake</item>
+        <item>@drawable/floatdingin</item>
+        <item>@drawable/icecream</item>
+        <item>@drawable/smoothies</item>
+        <item>@drawable/bubblepop</item>
+        <item>@drawable/lemontea</item>
+        <item>@drawable/airmineral</item>                                                               
+    </string-array>
+    <string-array name="drink_desc">
+        <item>DESC 1</item>
+        <item>DESC 2</item>
+        <item>DESC 3</item>
+        <item>DESC 4</item>
+        <item>DESC 5</item>        
+        <item>DESC 6</item>
+        <item>DESC 7</item>
+        <item>DESC 8</item>
+        <item>DESC 9</item>
+    </string-array>    
+    <string-array name="drink_details">
+        <item>
+            drink details 1
+		</item>
+		<item>
+		    drink details 2
+		</item>
+		<item>
+		    drink details 3
+		</item>
+		<item>
+		    drink details 4
+		</item>
+		<item>
+		    drink details 5
+		</item>
+		<item>
+            drink details 6
+		</item>
+		<item>
+		    drink details 7
+		</item>
+		<item>
+		    drink details 8
+		</item>
+		<item>
+		    drink details 9
+		</item>		
+    </string-array>
+	<!--END DRINK MENU -->
+	
+	<!--SNACK MENU -->
+    <string-array name="snack_title">
+        <item>Kentang Kocok</item>
+        <item>Kentang Spiral</item>
+        <item>Otak Otak Singapore</item>
+        <item>Sayur Asem</item>
+        <item>Sosis Lada Hitam</item>      
+        <item>Tempe Bacem</item>
+    </string-array>
+    <string-array name="snack_price">
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>
+        <item>Rp. 10,000.00</item>      
+        <item>Rp. 10,000.00</item>        
+    </string-array>
+    <string-array name="snack_image">
+        <item>@drawable/kentangkocok</item>
+        <item>@drawable/kentangspiral</item>
+        <item>@drawable/sosisladahitam</item>
+        <item>@drawable/otaksingapore</item>
+        <item>@drawable/tempebacem</item>    
+        <item>@drawable/sayurasem</item>                    
+    </string-array>
+    <string-array name="snack_desc">
+        <item>DESC 1</item>
+        <item>DESC 2</item>
+        <item>DESC 3</item>
+        <item>DESC 4</item>
+        <item>DESC 5</item>        
+        <item>DESC 6</item>        
+    </string-array>    
+    <string-array name="snack_details">
+        <item>
+            snack details 1
+		</item>
+		<item>
+		    snack details 2
+		</item>
+		<item>
+		    snack details 3
+		</item>
+		<item>
+		    snack details 4
+		</item>
+		<item>
+		    snack details 5
+		</item>
+		<item>
+            drink details 6
+		</item>
+		
+    </string-array>
+	<!--END DRINK MENU -->
+</resources>
